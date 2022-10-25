@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore MyQualtricsDownload folder
+MyQualtricsDownload/
+
 # Distribution / packaging
 .Python
 build/
